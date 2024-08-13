@@ -1,0 +1,4 @@
+{
+  "name": "WebSocket based chat server",
+  "description": "Uses Node.js to set up a WebSocket-based chat server, and provides a web page you can use to join the chat."
+}
